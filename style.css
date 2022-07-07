@@ -9,7 +9,12 @@ h1{
 
 
 
-
+section{
+              display: flex;
+}
+.back-img{
+              width: 100%;
+}
 
 
 
